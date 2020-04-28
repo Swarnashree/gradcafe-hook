@@ -1,0 +1,3 @@
+notify-run
+bs4
+requests
